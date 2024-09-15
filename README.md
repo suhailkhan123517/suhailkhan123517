@@ -24,11 +24,11 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 
 ## 🚀 Projects
 
-### [Project Name 1]
+### Shopy
 - **Description**: A full-stack e-commerce platform built with Next.js and Prisma, featuring Stripe payment integration and MongoDB for scalable data management.
 - **Tech Stack**: Next.js, Prisma, Stripe, MongoDB, Tailwind, NextAuth
 
-### [Project Name 2]
+### Discord clone
 - **Description**: A real-time chat application using Node.js, Supabase, and PostgreSQL with NextAuth for secure user authentication.
 - **Tech Stack**: Node.js, Supabase, PostgreSQL, NextAuth, Tailwind
 
