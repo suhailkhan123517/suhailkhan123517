@@ -18,7 +18,7 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **ORM/Database Management**: Prisma, Drizzle, Convex
 - **Authentication**: NextAuth, Supabase
-- **API Design**: RESTful API, GraphQL
+- **API Design**: RESTful API
 - **Payment Integration**: Stripe
 - **Cloud/Hosting**: Vercel, AWS, Supabase
 
