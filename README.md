@@ -24,9 +24,9 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 
 ## 🚀 Projects
 
-### [Project Name 1]
-- **Description**: A full-stack e-commerce platform built with Next.js and Prisma, featuring Stripe payment integration and MongoDB for scalable data management.
-- **Tech Stack**: Next.js, Prisma, Stripe, MongoDB, Tailwind, NextAuth
+### Blocks
+- **Description**: A full stack cutlist optimizer application 
+- **Tech Stack**: Next.js, Prisma, Stripe, Mysql, Tailwind, NextAuth
 
 ### [Project Name 2]
 - **Description**: A real-time chat application using Node.js, Supabase, and PostgreSQL with NextAuth for secure user authentication.
