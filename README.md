@@ -10,7 +10,7 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **UI/UX**: Responsive Design, Component-Based Architecture
 - **State Management**: Zustand, Redux, Jotai
 - **Styling**: Styled Components, Tailwind CSS
-- **Bundlers/Tools**: Bun, Webpac
+- **Bundlers/Tools**: Bun, Webpa
 
 ### Backend
 - **Languages**: Node.js, TypeScript, JavaScript
