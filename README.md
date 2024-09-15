@@ -19,7 +19,7 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **ORM/Database Management**: Prisma, Drizzle, Convex
 - **Authentication**: NextAuth, Supabase
 - **API Design**: RESTful API
-- **Payment Integration**: Stripe
+- **Payment Integration**: Stripe, Lemon Squeezy
 - **Cloud/Hosting**: Vercel, AWS
 
 ## 🚀 Projects
