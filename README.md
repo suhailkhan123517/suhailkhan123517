@@ -20,7 +20,7 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **Authentication**: NextAuth, Supabase
 - **API Design**: RESTful API
 - **Payment Integration**: Stripe
-- **Cloud/Hosting**: Vercel, AWS, Supabase
+- **Cloud/Hosting**: Vercel, AWS
 
 ## 🚀 Projects
 
