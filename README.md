@@ -29,8 +29,8 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **Tech Stack**: Next.js, Prisma, Stripe, Mysql, Tailwind, NextAuth
 
 ### Discord clone
-- **Description**: A real-time chat application using Node.js, Supabase, and PostgreSQL with NextAuth for secure user authentication.
-- **Tech Stack**: Node.js, Supabase, PostgreSQL, NextAuth, Tailwind
+- **Description**: A real-time chat application using Node.js, MySQL with NextAuth for secure user authentication.
+- **Tech Stack**: Node.js, Prisma, MySQL, NextAuth, Tailwind
 
 ## 📚 Experience
 
