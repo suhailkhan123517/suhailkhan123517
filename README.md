@@ -8,7 +8,7 @@ Hi! I'm a full-stack web developer specializing in building high-performance, sc
 - **Frameworks/Libraries**: Next.js, React.js, Bootstrap, Tailwind CSS
 - **Languages**: HTML, CSS, JavaScript, TypeScript
 - **UI/UX**: Responsive Design, Component-Based Architecture
-- **State Management**: Zustand, Redux
+- **State Management**: Zustand, Redux, Jotai
 - **Styling**: Styled Components, Tailwind CSS
 - **Bundlers/Tools**: Bun, Webpack
 
