@@ -1,46 +1,29 @@
-# Full Stack Web Developer
+## 👋 Hello! 
+Software engineer with 2+ years of experience.  Worked for innovative startups, large enterprise products,Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API developments.
 
-Hi! I'm a full-stack web developer specializing in building high-performance, scalable web applications using modern technologies across both the frontend and backend. With a solid foundation in various frameworks, databases, and state management tools, I develop robust, dynamic applications that provide seamless user experiences.
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
-## 🛠️ Skills
+<!--
+**AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Frontend
-- **Frameworks/Libraries**: Next.js, React.js, Bootstrap, Tailwind CSS, Shadcn
-- **Languages**: HTML, CSS, JavaScript, TypeScript
-- **UI/UX**: Responsive Design, Component-Based Architecture
-- **State Management**: Zustand, Redux, Jotai
-- **Styling**: Styled Components, Tailwind CSS
-- **Bundlers/Tools**: Bun
+Here are some ideas to get you started:
 
-### Backend
-- **Languages**: Node.js, TypeScript, JavaScript
-- **Frameworks**: Express.js, Next.js (API routes)
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **ORM/Database Management**: Prisma, Drizzle, Convex
-- **Authentication**: NextAuth, Supabase
-- **API Design**: RESTful API
-- **Payment Integration**: Stripe, Lemon Squeezy
-- **Cloud/Hosting**: Vercel, AWS
-
-## 🚀 Projects
-
-### Shopy
-- **Description**: A full-stack e-commerce platform built with Next.js and Prisma, featuring Stripe payment integration and Mysql for scalable data management.
-- **Tech Stack**: Next.js, Prisma, Stripe, Mysql, Tailwind, NextAuth
-
-### Discord clone
-- **Description**: A real-time chat application using Node.js, MySQL with NextAuth for secure user authentication.
-- **Tech Stack**: Node.js, Prisma, MySQL, NextAuth, Tailwind
-
-## 📚 Experience
-
-I have worked with both startups and established companies to build scalable web solutions, optimize APIs, and design seamless user experiences. I am proficient in modern development practices like CI/CD, containerization, and agile methodologies.
-
-### Contact
-- **Email**: [Your Email]
-- **LinkedIn**: [Your Lin
-kedIn]
-- **Portfolio**: [Your Portfolio]
-
-
-Optimize this readme file and short 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
