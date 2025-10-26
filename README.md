@@ -1,5 +1,5 @@
 ## 👋 Hello! 
-Software engineer with 3+ years of experience.  Worked for innovative startups, large enterprise products, Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API developments and Good knowlodge in svg drawing..
+Software engineer with 3+ years of experience.  Worked for innovative startups, large enterprise products. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API developments and Good knowlodge in svg drawing..
 
 
 
